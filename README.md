@@ -21,3 +21,6 @@
 5. Install all the dependencies using "npm install"  command
 
 6. Start the server by running the command "node index.js"
+
+
+![image](https://github.com/rprakash78/chrome-crux-report/assets/65214722/3005303f-d900-441e-90f9-e58ad2fc6dc6)
