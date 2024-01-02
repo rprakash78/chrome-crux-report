@@ -1,8 +1,7 @@
 # chrome-crux-report
 
-# Metrics Application Setup
-
 ## Frontend (React with Material-UI):
+## Backend (Node):
 
 ### Prerequisites:
 
