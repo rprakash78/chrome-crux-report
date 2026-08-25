@@ -11,7 +11,7 @@ import {
 } from "@mui/material";
 
 const MetricsTable = ({ data }) => {
-  const [filter, setFilter] = useState("");
+  const [filter] = useState("");
   const [sortBy, setSortBy] = useState(null);
   const [sortOrder, setSortOrder] = useState("asc");
 
